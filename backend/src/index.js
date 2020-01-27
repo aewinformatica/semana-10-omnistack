@@ -6,7 +6,8 @@ const app = express();
 // rota raiz e segundo parametro uma funcao arrow function = parentesis flecha e chaves
 app.get('/', (request,response) => {
 
-    return response.send('Hello world');
+    // retornando resposta em Json
+    return response.json({ message : 'Hello Aew'});
 
 });
 
