@@ -12,3 +12,8 @@ Projeto React, React Native Back-End e Front-ENd
 - mkdir backend
 - cd backend
 - yarn init -y
+
+-yarn add express
+
+* primeira execucão
+  node .\src\index.js
