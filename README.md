@@ -8,3 +8,7 @@ Projeto React, React Native Back-End e Front-ENd
 
 *Yarn https://legacy.yarnpkg.com/lang/en/
 - choco install yarn
+
+- mkdir backend
+- cd backend
+- yarn init -y
